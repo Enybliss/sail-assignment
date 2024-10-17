@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    flex-wrap: wrap;
+
+}
+
+.navs{
+    display: flex;
+    align-items: center;
+    margin-right: 550px;
+    gap: 20px;
+}
+
+.Login{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+
+    button {
+    width: 100px;
+    height: 35px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background: transparent;
+
+    }
+}
+

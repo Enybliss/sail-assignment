@@ -1,0 +1,20 @@
+.hero{
+    display: flex;
+    justify-content: space-around;
+}
+
+.HeroImage{
+width: 400px;
+
+    
+}
+
+.Icons {
+    display: flex;
+    gap: 20px;
+}
+
+h1{
+    font-weight: bold;
+    
+}
